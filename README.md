@@ -18,4 +18,4 @@ The Minimax algorithm is a decision-making method used in two-player games. It e
 Sure, it might take its sweet time to think, but hey, it's like that one friend who's slow to decide but somehow never loses a game!😁
 
 ---
-![HTML](https://img.icons8.com/color/48/html-5--v1.png)![CSS](https://img.icons8.com/color/48/css3.png)![Javascript](https://img.icons8.com/color/48/javascript--v1.png)
+![HTML](https://img.icons8.com/?size=25&id=20909&format=png&color=000000)![CSS](https://img.icons8.com/?size=25&id=21278&format=png&color=000000)![Javascript](https://img.icons8.com/?size=25&id=108784&format=png&color=000000)
