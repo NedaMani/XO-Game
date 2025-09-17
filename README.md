@@ -2,7 +2,7 @@
 
 [**Live Demo**](https://xo-game-smoky.vercel.app)
 
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/m7BxCeSFXhU
 
 #### Description:
 
