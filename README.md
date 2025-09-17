@@ -38,5 +38,7 @@ Ready to test your skills against our AI? Check out the live demo here:
 ## Technologies Used
 
 **HTML:** The structural foundation of the game is built with HTML.
+
 **CSS:** All the visual styling, including the grid layout and interactive animations, is handled by CSS.
+
 **JavaScript:** The core game logic, including the Minimax algorithm, move handling, and win/draw detection, is powered by JavaScript.
