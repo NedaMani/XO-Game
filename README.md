@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the classic game of Tic-Tac-Toe\! This project is a straightforward yet sophisticated implementation of the timeless game, built using fundamental web technologies: **HTML**, **CSS**, and **JavaScript**. You'll be playing as **X** against a formidable opponent: the computer, who plays as **O**. This isn't just a simple game; it's a deep dive into one of the most foundational concepts in game AI; the **Minimax Algorithm**.
+Welcome to the classic game of Tic-Tac-Toe\! This project is a straightforward yet sophisticated implementation of the timeless game, built using fundamental web technologies: **HTML**, **CSS**, and **JavaScript**. You'll be playing as **X** against a formidable opponent: the computer, who plays as **O**. This isn't just a simple game; it's a deep dive into one of the most foundational concepts in game AI, the **Minimax Algorithm**.
 
 ## Game Rules
 
