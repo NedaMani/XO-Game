@@ -1,7 +1,7 @@
 # tic tac toe Game with Minimax Algorithm
 This project is a simple XO (Tic-Tac-Toe) game implemented using HTML, CSS, and JavaScript.
 
-**[demo](https://xo-game-plus.vercel.app/)**
+**[demo](https://xo-game-smoky.vercel.app)**
 
 ## Game Rules:
 - The game is played on a 3x3 grid.
