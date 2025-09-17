@@ -1,12 +1,8 @@
 # **Tic-Tac-Toe Game with the Minimax Algorithm**
 
----
-
 ## Introduction
 
 Welcome to the classic game of Tic-Tac-Toe\! This project is a straightforward yet sophisticated implementation of the timeless game, built using fundamental web technologies: **HTML**, **CSS**, and **JavaScript**. You'll be playing as **X** against a formidable opponent: the computer, who plays as **O**. This isn't just a simple game; it's a deep dive into one of the most foundational concepts in game AI—the **Minimax Algorithm**.
-
----
 
 ## Game Rules
 
@@ -16,8 +12,6 @@ Welcome to the classic game of Tic-Tac-Toe\! This project is a straightforward y
 - **Game End:** The game concludes in one of two ways:
   - A player successfully gets three marks in a row and wins.
   - All nine squares are filled, and no player has won, resulting in a **draw**.
-
----
 
 ## The Brains of the Operation: The Minimax Algorithm
 
@@ -36,14 +30,10 @@ At its core, Minimax is designed to choose the optimal move for a player, assumi
 
 The result is an unbeatable opponent. The computer might seem to "pause" for a moment before making a move, but this is the algorithm calculating every potential scenario, like a grandmaster analyzing a chess board, to ensure it makes the best possible decision and minimizes any chance of a loss. This process guarantees that the computer will either win the game or, at the very least, force a draw.
 
----
-
 ## Demo and Project Links
 
 Ready to test your skills against our AI? Check out the live demo here:
 [**Live Demo**](https://xo-game-smoky.vercel.app)
-
----
 
 ## Technologies Used
 
